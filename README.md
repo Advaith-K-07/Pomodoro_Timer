@@ -5,4 +5,6 @@ With the benefits of implementing the Pomodoro Technique into the various tasks 
 As an aspiring engineer, if something you want doesn't exist, make it!
 
 I thus created a Pomodoro Timer (in Python) suited to be minimalistic and easy to use at the same time.
+
+
 Happy using!
